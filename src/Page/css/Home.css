@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Mali:wght@200&display=swap');
+.setfont {
+  font-weight: bold;
+  color: black;
+  font-family: 'Mali', cursive;
+}
+.fontcontent {
+  color: black;
+  font-size: 16px;
+  font-family: 'Mali', cursive;
+}
+
+.navactive1:hover {
+  color: white;
+  text-shadow: 2px 2px 10px #696b6b;
+}
+.cardshadow:hover {
+  box-shadow: 0 -6px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.imgfade {
+  opacity: 0.9;
+  transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -webkit-transition: opacity 1s ease-in-out;
+}
+.imgfade:hover {
+  opacity: 1;
+  transition: opacity 0.53s ease-in-out;
+  -moz-transition: opacity 0.53s ease-in-out;
+  -webkit-transition: opacity 0.53s ease-in-out;
+}
