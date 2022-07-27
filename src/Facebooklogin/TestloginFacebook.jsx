@@ -68,7 +68,7 @@ const Facelogin1 = (response) => {
             <>
                 <div className='d-grid gap-2'>
                     <Button className="buttonlogin" onClick={fb_login}>
-                        <img className='image-icon1' width={'30'} height={'30'} src='https://cdn-icons.flaticon.com/png/512/3670/premium/3670032.png?token=exp=1658440387~hmac=7ea04142f4c5b20ae4acf261ae231a87' />
+                        <img className='image-icon1' width={'30'} height={'30'} src='https://cdn-icons-png.flaticon.com/512/145/145802.png' />
                         Continue with FaceBook
                     </Button>
                     <div id="status"></div>

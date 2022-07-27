@@ -1,0 +1,27 @@
+.imgcircle {
+    margin-left: auto;
+    border-radius: 50%;
+}
+
+.dropbtn {}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    margin-left: -120px;
+    margin-top: 20px;
+    width: 200px;
+    height: 260px;
+    position: absolute;
+    background-color: #E4E4E4;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.show {
+    display: block;
+}
