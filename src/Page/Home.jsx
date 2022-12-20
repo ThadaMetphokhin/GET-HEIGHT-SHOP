@@ -9,7 +9,7 @@ function Home() {
         <Container className="setfont">
           <div id="testlogin"></div>
           <br />
-          <h1>ยินดีต้อนรับเข้าสู้เว็บไซต์อันดับหนึ่งของประเทศไทย</h1>
+          <h1>แก้ละยินดีต้อนรับเข้าสู้เว็บไซต์อันดับหนึ่งของประเทศไทย</h1>
           <div className="text-center">
             <img
               className="img-fluid"
